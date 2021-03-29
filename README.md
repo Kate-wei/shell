@@ -1,8 +1,5 @@
 # Shell 编码规范
 
-> 作者：Matthew Wang &lt;matt&#x77;yl&#x40;gmai&#x6c;.c&#x6f;m&gt;<br>
-> 链接：[github.com/ymattw/shell-style-guide](https://github.com/ymattw/shell-style-guide/blob/master/shell-style-guide-cn.md)
-
 本文为作者结合自身多年 shell 编码经验并参考 Google Shell Style Guide <sup>[1]</sup> 完成，**文中 shell 特指 bash**。转载随意（CC0 1.0 通用版权）。
 
 ## 命名规范
